@@ -1,0 +1,119 @@
+.App {
+  font-family: Windows Command Prompt Regular;
+  /* max-width:560px; */
+ background: #eee;
+ 
+}
+
+a{
+  color: white;
+}
+hr{
+  border: #ffffff solid 2px;
+}
+
+h1{font-size: 50px;
+  font-weight: 300;
+  margin: 0 0 20px;
+}
+h2{
+  font-size: 32px;
+  font-weight: 300;
+}
+h3{font-size: 32px;
+  font-weight: 300;
+}
+p{font-size: 20px}
+
+.Nav{
+  background: #ffffff;
+  height: 300px;;
+}
+
+.Home section{
+  max-width: 560px;
+  margin: 0 auto;
+}
+.Home section .content{
+  padding: 40px;
+  margin: 0 auto;
+}
+
+table{
+  width: 100%;
+}
+th{
+  font-weight: 300;
+  padding: 10px 0 30px;
+}
+tr{
+  
+}
+tr td:nth-child(3){
+  text-align: right;
+}
+
+.section__thegame{
+  background: blue;
+  color:white;
+}
+.section__thegame,.section__gettheapp a{
+ /* color: rgb(255, 217, 0); */
+ font-size: 32px;
+}
+.section__thegame h2 > span{
+  color:  rgb(255, 217, 0);
+  font-size: 32px;
+ }
+.appstorelink__ios{}
+.appstorelink__android{
+  float: right;
+  
+}
+
+
+
+.section__therules .content{
+  background: #ffffff;
+  color: #3550e4;;
+  border: 10px solid blue;
+}
+
+.table__header{
+  text-align: left;
+ 
+}
+.section__therules hr{
+  border-color: black;
+
+}
+
+.section__gettheapp{
+  background: black;
+  color:white;
+  
+}
+
+.section__gotquestions{
+  background: blue;
+  color:white;
+}
+
+.section__graveyard{
+  background: red;
+  color: white;
+}
+.section__graveyard p {
+  text-align: justify;
+  
+}
+
+.section__graveyard p span{
+  text-decoration-line: line-through;
+}
+
+.section__thanks{
+  text-align: center;
+  color: red;
+  background: #f3d338;
+}
