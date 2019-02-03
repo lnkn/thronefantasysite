@@ -15,7 +15,7 @@ body{
 
 .App {
  font-family:'Windows Command Prompt';
- background: rgb(223, 223, 223);
+ background:black;
  max-width: 1680px;
  margin: 20px;
  /* margin:0px auto; */
@@ -28,7 +28,7 @@ body{
 }
 @media(min-width:1034px){
   .App{
-    padding: 20px ;
+    padding: 10px ;
   }
 }
 @media (min-width: 1720px) {
@@ -78,7 +78,7 @@ p{font-size: 20px}
   .Home{
     grid-template-columns: 1fr 1fr ;
     grid-template-rows: auto;
-    grid-gap: 20px;
+    grid-gap: 5px;
   }
   .Home section{
     max-width: none;
@@ -129,7 +129,6 @@ p{font-size: 20px}
   .Home{
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: auto;
-    grid-gap: 20px;
   }
   
   .Home section:nth-child(1){/* nav */

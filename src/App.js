@@ -28,10 +28,10 @@ class App extends Component {
             <p>Throne Fantasy is best played with everyone you know. Start a league with your friends, family, co-workers, or anyone!</p>
             <p>We wish you well in the wars to come.</p>
             <br/>
-            <a className="appstorelink__ios" href="#">
+            <a className="appstorelink__ios" href="https://itunes.apple.com/us/app/throne-fantasy/id1251792552?ls=1&mt=8">
               iOS
             </a>
-            <a className="appstorelink__android" href="#">
+            <a className="appstorelink__android" href="https://play.google.com/store/apps/details?id=com.solen.gotfantasy">
               Android
             </a>
           </div>
