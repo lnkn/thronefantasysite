@@ -31,7 +31,7 @@
 .nav__content .season{
   padding-bottom: 5px;
   align-self: flex-end;
-  margin-right: 20px;
+  
 }
 
 .nav__image--wrapper{
@@ -61,5 +61,7 @@
   .nav__content .data{
    display: flex;
   }
-  
+  .nav__content .season{
+    margin-right: 20px;
+  }
 }
