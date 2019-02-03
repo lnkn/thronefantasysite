@@ -2,9 +2,9 @@
   font-family: 'Windows Command Prompt';
   font-style: normal;
   font-weight: 300;
-  src: url('./font/Windows-Command-Prompt.woff2') format('woff2'),
-       url('./font/Windows-Command-Prompt.woff') format('woff'),
-       url('./font/windows_command_prompt.ttf') format('truetype');
+  src: url(./font/Windows-Command-Prompt.woff2) format('woff2'),
+       url(./font/Windows-Command-Prompt.woff) format('woff'),
+       url(./font/windows_command_prompt.ttf) format('truetype');
 }
 
 
