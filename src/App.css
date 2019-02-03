@@ -3,7 +3,7 @@
   font-style: normal;
   font-weight: 300;
   src: local('Open Sans'), local('OpenSans'),
-       url('../font/windows_command_prompt.ttf') format('truetype')
+       url('./font/windows_command_prompt.ttf') format('truetype')
 }
 
 body{
