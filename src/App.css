@@ -14,7 +14,7 @@ body{
 }
 
 .App {
- font-family: Windows Command Prompt Regular;
+ font-family:'Windows Command Prompt';
  background: rgb(223, 223, 223);
  max-width: 1680px;
  margin: 20px;
