@@ -77,6 +77,7 @@ class App extends Component {
               <span>Eric</span>
               <span>Lincoln</span>
               <span>Nick</span>
+              <span>Maarius</span>
             </div>
           </div>
         </section>
