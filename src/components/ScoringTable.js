@@ -81,7 +81,7 @@ class ScoringTable extends Component {
             <tr>
                 <td></td>
                 <td>Dorne</td>
-                <td>+2000</td>
+                <td>+2300</td>
             </tr>
             <tr>
                 <td></td>
@@ -91,7 +91,12 @@ class ScoringTable extends Component {
             <tr>
                 <td></td>
                 <td>Kings Landing</td>
-                <td>+700</td>
+                <td>+1250</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Winterfell</td>
+                <td>+400</td>
             </tr>
             <tr>
                 <td></td>
