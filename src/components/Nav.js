@@ -11,7 +11,7 @@ class Nav extends Component {
         <div className="logo">Throne<br/>Fantasy</div>
         <div className="data">
           <div className="season">Season<br/>8</div>
-          <div className="draft">Draft Starts<br/>3/1/19</div>
+          <div className="draft">Draft Starts<br/>SOON™</div>
         </div>
         <hr/>
         
