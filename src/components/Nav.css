@@ -1,6 +1,8 @@
 .nav{
   display: inline-block;
-  background: #fff;
+  background:linear-gradient(#1A1935, #6A4A69);
+   background:none;
+  color: #fff;
 }
 .nav__content{
   padding:40px 40px 0;

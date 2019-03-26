@@ -4,6 +4,7 @@ class ScoringTable extends Component {
   render() {
     return (
     <div>
+        <h1>The Rules</h1>  <hr/>
       <table>
         <thead>
           <tr className="table__header">
