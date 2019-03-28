@@ -1,15 +1,26 @@
+.logo--wrapper{
+  text-align: center;
+  margin: 30px auto;
+}
+.logo--svg{
+  height: 200px;
+  width: 200px;
+}
 
 .storeicons--container{
   margin: 0 auto;
   padding: 20px;
   max-width: 380px;
+  display: flex;
+  justify-content: space-between
 }
-
+.playstore--wrapper{
+  
+}
 .playstore--wrapper, .appstore--wrapper{
   display: inline-block;
   max-width: 160px;
 }
-
 
 .playstore--svg, .appstore--svg{
   width: 100%;
