@@ -34,8 +34,8 @@ class Simple extends Component {
           />
       </a>
     </div>
-    {/* <h4>valar morghulis</h4>
-    <h4>valar dohaeris</h4> */}
+    <h4>valar morghulis</h4>
+    <h4>valar dohaeris</h4>
     </div>
     );
   }

@@ -15,7 +15,6 @@
   justify-content: space-between
 }
 .playstore--wrapper{
-  
 }
 .playstore--wrapper, .appstore--wrapper{
   display: inline-block;
@@ -35,5 +34,10 @@ h3{
 
 h4{
   text-align: center;
-  color: rgba(255, 0, 0, 0.637);
+  color:#32029b;
+  margin: 0 auto;
+  text-transform: uppercase;
+}
+h4:first-of-type{
+color: #00a4ff;
 }
