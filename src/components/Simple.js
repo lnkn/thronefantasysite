@@ -16,7 +16,7 @@ class Simple extends Component {
       wrapper="div"
       className="logo--wrapper"
       />
-    <h3>Join Us For The Final Season</h3><br/><br/>
+    <h3>Join Us For The Final Season</h3><br/>
     <h3>Download And Draft For Free</h3>
     <div className="storeicons--container">
       <a className="appstorelink__android" href="https://play.google.com/store/apps/details?id=com.solen.gotfantasy">
