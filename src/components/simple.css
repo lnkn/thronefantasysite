@@ -1,0 +1,28 @@
+
+.storeicons--container{
+  margin: 0 auto;
+  padding: 20px;
+  max-width: 380px;
+}
+
+.playstore--wrapper, .appstore--wrapper{
+  display: inline-block;
+  max-width: 160px;
+}
+
+
+.playstore--svg, .appstore--svg{
+  width: 100%;
+}
+
+h3{
+  margin: 5px auto;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.733);
+  max-width: 255px;
+}
+
+h4{
+  text-align: center;
+  color: rgba(255, 0, 0, 0.637);
+}

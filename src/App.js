@@ -14,6 +14,7 @@ import TheHype from './components/TheHype';
 import Hero from './components/Hero';
 import TheGame from './components/TheGame'
 
+import Simple from './components/Simple'
 
 import SnowStorm from 'react-snowstorm';
 
@@ -24,15 +25,16 @@ class App extends Component {
       <SnowStorm
         animationInterval = "50"
         snowCharacter = "■"
+        excludeMobile = {false}
       />
        <div className="Home">
-       
+       <Simple/>
         {/* <Nav/> */}
         
-        <Card className="section__hero">
+        {/* <Card className="section__hero">
           <Hero/>
-        </Card>
-        <Card className="section__thegame">
+        </Card> */}
+        {/* <Card className="section__thegame">
            <TheGame/>
         </Card>
         
@@ -64,7 +66,7 @@ class App extends Component {
 
         <Card className="section__credits">
          <Credits/>
-        </Card>
+        </Card> */}
 
         </div>
       </div>

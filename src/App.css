@@ -7,8 +7,8 @@
 }
 
 body{
-  /* background: white; */
-  background:linear-gradient(#1A1935, #6A4A69);
+  background: black;
+  /* background:linear-gradient(#1A1935, #6A4A69); */
  background-attachment: fixed;
  background-position: center;
  background-repeat: no-repeat;
